@@ -1,4 +1,4 @@
-# TiMi - Trade in Minutes
+# TiMi - Trade in Minutes 这应该只是其他人复现的部分而已，作者github简历和论文作者简历不符
 
 ## A Rationality-Driven Multi-Agent System for Quantitative Financial Trading
 
